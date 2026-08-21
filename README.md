@@ -29,6 +29,20 @@ You can also view the papers via this web page [MobileAppTesting](https://xyihen
 
 
 ### 2026
+* ASE
+  * [A11YRepair: Bridging Web Accessibility Barriers via Knowledge-Enhanced Divide-and-Conquer Repair](https://arxiv.org/abs/2606.21926)
+  * [A Longitudinal Study of Android Apps Signing Key Protection](https://arxiv.org/abs/2606.21487)
+  * [An Empirical Study of Data Access Practice in Android AR Apps to Understand User Privacy Risks](https://conf.researchr.org/track/ase-2026/ase-2026-research-track)
+  * [ArkEval: Benchmarking and Evaluating Automated Code Repair for ArkTS](https://arxiv.org/abs/2602.08866)
+  * [GraphDroid: Asynchronous LLM-Based Mobile App GUI Testing via History-Aware Exploration and Hybrid Intent Fulfillment](https://conf.researchr.org/track/ase-2026/ase-2026-research-track)
+  * [Mobile Bug Reproduction via Global State Reprioritization and LLM-Guided Trajectory Exploration](https://conf.researchr.org/track/ase-2026/ase-2026-research-track)
+  * [Piece by Piece: Automating Combination Interaction GUI Testing via Planning and Dual Memory](https://conf.researchr.org/track/ase-2026/ase-2026-research-track)
+  * [PropGen: Automated Property Generation for Property-Based Testing of Mobile Apps](https://conf.researchr.org/track/ase-2026/ase-2026-research-track)
+  * [Source-Free Detection and Impact Analysis of Compiler Optimization Problems in Mobile Applications](https://arxiv.org/abs/2606.23512)
+  * [Structure-Guided Semantic Deobfuscation of Android Identifiers](https://conf.researchr.org/track/ase-2026/ase-2026-research-track)
+  * [WebCQ: Cooperative Multi-agent Deep Reinforcement Learning for Scalable Web GUI Testing](https://arxiv.org/abs/2606.22502)
+  * [WiDepFuzz: Finding Wi-Fi Protocol Bugs in Mobile Hotspot via Field Dependency Model](https://conf.researchr.org/track/ase-2026/ase-2026-research-track)
+
 * ICSE
   * [Practitioner Views on Mobile App Accessibility: Practices and Challenges](https://arxiv.org/pdf/2601.14131)
   * [SpecOps: A Fully Automated AI Agent Testing Framework in Real-World GUI Environments](https://arxiv.org/abs/2603.10268)
