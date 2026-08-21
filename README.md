@@ -37,6 +37,24 @@ You can also view the papers via this web page [MobileAppTesting](https://xyihen
   * [Towards Scalable and Interpretable Mobile App Risk Analysis via Large Language Models](https://arxiv.org/pdf/2508.15606)
   * [Understanding DevOps Security of Google Workspace Apps](https://conf.researchr.org/track/icse-2026/icse-2026-research-track)
 
+* ISSTA
+  * [Automated Classification, Root Cause Analysis, and Repair Recommendations for Failed Mobile Testing by Specialized LLM](https://conf.researchr.org/track/issta-2026/issta-2026-research-papers)
+  * [Automated Program Repair for UI-centric Android Bugs: How Far are We?](https://conf.researchr.org/track/issta-2026/issta-2026-research-papers)
+  * [Bridging User Feedback and System Diagnosis: Reproducing Mobile Performance Issues from Reviews](https://conf.researchr.org/track/issta-2026/issta-2026-research-papers)
+  * [Characterizing and Repairing Obsolete Android GUI Tests under UI Evolution](https://conf.researchr.org/track/issta-2026/issta-2026-research-papers)
+  * [ChromaEyes: Detecting Inconsistencies of User Interface Elements between Light and Dark Modes of Web Applications](https://conf.researchr.org/track/issta-2026/issta-2026-research-papers)
+  * [Environmental Injection Attacks against GUI Agents in Realistic Dynamic Environments](https://arxiv.org/abs/2509.11250)
+  * [Fine-Grained Privacy Leakage Detection in OpenHarmony Apps](https://conf.researchr.org/track/issta-2026/issta-2026-research-papers)
+  * [From Natural Language to Executable Properties for Property-based Testing of Mobile Apps](https://arxiv.org/abs/2603.21263)
+  * [FuncDroid: Towards Inter-Functional Flows for Comprehensive Mobile App GUI Testing](https://arxiv.org/abs/2602.12834)
+  * [Ghosts in the Memory: Detecting Unintended Sensitive Data in Android Apps](https://conf.researchr.org/track/issta-2026/issta-2026-research-papers)
+  * [How Safe is Your Screen? Understanding and Detecting Privacy Leaks in Sensitive Activities](https://conf.researchr.org/track/issta-2026/issta-2026-research-papers)
+  * [OptiMine: Scalable and Precise Code Optimization for Android Apps via LLM-Driven Semantic Analysis](https://conf.researchr.org/track/issta-2026/issta-2026-research-papers)
+  * [RippleGUItester: Change-Aware Exploratory Testing](https://arxiv.org/abs/2603.03121)
+  * [Secrets Unlocked: Evaluating LLMs for Secrets Detection in Android Apps](https://jordansamhi.com/static/files/papers/secretloc.pdf)
+  * [The Illusion of Success: Learning-Based Android Malware Detectors (Replicability Study)](https://conf.researchr.org/track/issta-2026/issta-2026-research-papers)
+  * [You are deceived in the pocket: Intrusive Advertisements in Mobile Applications: An Exploratory Study](https://conf.researchr.org/track/issta-2026/issta-2026-research-papers)
+
 * NDSS
   * [Beyond Conventional Triggers: Auto-Contextualized Covert Triggers for Android Logic Bombs](https://www.ndss-symposium.org/ndss-paper/beyond-conventional-triggers-auto-contextualized-covert-triggers-for-android-logic-bombs/)
   * [CHAMELEOSCAN: Demystifying and Detecting iOS Chameleon Apps via LLM-Powered UI Exploration](https://www.ndss-symposium.org/ndss-paper/chameleoscan-demystifying-and-detecting-ios-chameleon-apps-via-llm-powered-ui-exploration/)
